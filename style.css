@@ -131,9 +131,9 @@ body{
 }
 
 footer{
-    text-align: center;
-    background-image: linear-gradient(100deg,#E9ECF8,#E9ECF8, rgba(10, 56, 113, 0.4),#E9ECF8, #E9ECF8);
-    padding: 0px 10px 0px 10px;
+    text-align: left;
+    background-image: linear-gradient(100deg,rgba(10, 56, 113, 0.4), #E9ECF8, #E9ECF8, #E9ECF8, #E9ECF8);
+    padding: 0px 10px 0px 30px;
     position: relative;
     top: 980px;
 }
@@ -147,17 +147,18 @@ footer p{
 }
 
 .logos{
-    height:42px;
-    width:42px;
+    height:30px;
+    width:30px;
     padding:5px;
 }
-
+/*
 #textoFooter{
     position:relative;
-    bottom:10px;
+    bottom:5px;
     font-size: 16px;
     color:#0A3871;
 }
+*/
 
 
 
